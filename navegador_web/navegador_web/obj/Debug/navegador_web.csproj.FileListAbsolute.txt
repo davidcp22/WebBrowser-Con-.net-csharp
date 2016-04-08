@@ -1,0 +1,9 @@
+c:\users\audisoft-dev\documents\visual studio 2015\Projects\navegador_web\navegador_web\bin\Debug\navegador_web.exe.config
+c:\users\audisoft-dev\documents\visual studio 2015\Projects\navegador_web\navegador_web\bin\Debug\navegador_web.exe
+c:\users\audisoft-dev\documents\visual studio 2015\Projects\navegador_web\navegador_web\bin\Debug\navegador_web.pdb
+c:\users\audisoft-dev\documents\visual studio 2015\Projects\navegador_web\navegador_web\obj\Debug\navegador_web.csprojResolveAssemblyReference.cache
+c:\users\audisoft-dev\documents\visual studio 2015\Projects\navegador_web\navegador_web\obj\Debug\navegador_web.Form1.resources
+c:\users\audisoft-dev\documents\visual studio 2015\Projects\navegador_web\navegador_web\obj\Debug\navegador_web.Properties.Resources.resources
+c:\users\audisoft-dev\documents\visual studio 2015\Projects\navegador_web\navegador_web\obj\Debug\navegador_web.csproj.GenerateResource.Cache
+c:\users\audisoft-dev\documents\visual studio 2015\Projects\navegador_web\navegador_web\obj\Debug\navegador_web.exe
+c:\users\audisoft-dev\documents\visual studio 2015\Projects\navegador_web\navegador_web\obj\Debug\navegador_web.pdb
